@@ -19,16 +19,17 @@ For inquiries, feel free to contact me on [LinkedIn](https://www.linkedin.com/in
 ---
 
 ## Projects
-Here are some of the projects I worked/ I've been working on:
-- **Project 1**: Development of a deep learning model for multi-omics integration.
+Here are some of the projects I worked on:
+- **Project 1**: Development of deep learning models for multi-omics integration, data denoising, and/or augmentation.
 - **Project 2**: Deconvolving the heterogeneity of pediatric acute myeloid leukemia through a single-cell multi-omics approach. 
 
 ---
 
 ## Contributions
 I am actively contributing to:
-- **Repository 1**: AutoEncoder (AE) for multi-omics data early integration, data denoising, and/or augmentation. (private for now due to an NDA)
-- **Repository 2**: Single cell RNA sequencing analysis (closed, under construction).
+- **Repository 1**: Single cell RNA sequencing analysis.
+- **Repository 2**: AutoEncoder for Multi-Omics integration.
+- **Repository 3**: Denoising AutoEncoder for denoising of Multi-Omics data.
 
 ---
 
